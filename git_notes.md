@@ -13,6 +13,8 @@
 * git log -S \[search string\]
   * show only commits where 'search string' was added or removed
 * git log --author "authorName"
+* git log --oneline --graph --decorate
+  * shows commits on a single line, a graph of branches, and information about branches and remotes
 
 ## git commit
 #### git commit records the changes in your staging area
