@@ -13,6 +13,8 @@
 * git log -S \[search string\]
   * show only commits where 'search string' was added or removed
 * git log --author "authorName"
+* git log --pretty=format:"%h %an"
+  * show the short commit hash and author name for each commit
 
 ## git commit
 #### git commit records the changes in your staging area
