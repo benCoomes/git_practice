@@ -53,3 +53,16 @@
   * push the tag to a remote server. Tags are not pushed automatically.
 * git checkout \[tag\]
   * checkout a tag. This puts your repository in a detached HEAD state. 
+
+## git branch
+#### use branches to work on features or bug fixes before merging them into the main branch
+* git branch \[name\]
+  * create a new branch called 'name'
+* git checkout \[branchName\]
+  * switch to an existing branch by moving HEAD to the 'branchName' branch. You will not be able to switch if you have uncommitted changes in your working directory or staging area that conflict with the branch that you are switching to. 
+* git checkout -b \[branchName\]
+  * create a new branch and switch to it
+* git merge \[branchName\]
+  * merge branch 'branchName' with your current branch
+* git branch -d \[branchName\]
+  * delete a branch
