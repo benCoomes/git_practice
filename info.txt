@@ -1,2 +1,3 @@
 The platypus is a mammal.
 It has four legs.
+It is the only egg-laying mammal.
