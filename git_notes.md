@@ -25,6 +25,9 @@
   * add a remote repository
 * git remote rename \[oldname\] \[newname\]
 * git remote remove \[name\]
+* git remote show \[name\]
+  * show details about a remote
+
 ## git pull
 #### git pull fetches and merges the remote branch that your repository is tracking, if any
 
@@ -33,3 +36,16 @@
 
 ## git push \[remoteName\] \[branch\]
 #### git push uploads your objects and references to another repository
+
+## git tag
+#### use git tag to specify important points in commit history, such as versioned releases. You can create annotated tags, which have metadata are are stored as full git objects, or lightweight tags that only point to a specific commit. 
+* git tag
+  * list the available tags
+* git tag \[pattern\]
+  * only list tags that match the pattern
+* git tag -a \[tagName\] -m \[tagMessage\]
+  * create an annotated tag with a message for the most recent commit
+* git tag -a \[tagName\] \[checksum\]
+  * tag the commit with the matching checksum. The provided checksum can be partial as long as it is unique.
+* git show \[tag\]
+  * display detailed information about the commit pointed to by the tag
