@@ -1,4 +1,4 @@
-FACTS ABOUT ANIMALS
+--- FACTS ABOUT ANIMALS ---
 
 The platypus is a mammal.
 It has four legs.
