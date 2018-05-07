@@ -60,6 +60,10 @@
 
 ## git branch
 #### use branches to work on features or bug fixes before merging them into the main branch
+* git branch \[options\]
+  * list current branches, with MASTER indicated by a \*
+  * the -v option shows the last commit on each branch
+  * --merged and --no-merged show branches that are or aren't merged into your current branch
 * git branch \[name\]
   * create a new branch called 'name'
 * git checkout \[branchName\]
