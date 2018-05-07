@@ -3,3 +3,6 @@ FACTS ABOUT ANIMALS
 The platypus is a mammal.
 It has four legs.
 It is the only egg-laying mammal.
+
+The elephant is also a mammal.
+It also has four legs.
