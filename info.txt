@@ -8,5 +8,8 @@ The elephant is also a mammal.
 It also has four legs.
 Elephants are quite large.
 
+The koala is a mammal and a marsupial.
+It has a pouch.
+
 But what is a mammal?
 No one really knows.
