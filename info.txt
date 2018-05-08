@@ -11,6 +11,7 @@ Elephants are quite large.
 
 The koala is a mammal and a marsupial.
 It has a pouch.
+It puts its kids inside its pouch.
 
 But what is a mammal?
 No one really knows.
